@@ -1,1 +1,18 @@
-ASD
+Amazon test finished.
+Facundo Nicolas Massimilla (QA Automation)
+
+Clarifications:
+.First stage of the project, validate captcha manually (Amazon security) (15 seconds of time out).
+The project can be improved, add another branch of searches, or choose which page to display.
+You can search for variables (xpath, variables) from an excel if you prefer.
+
+.Automatized with Eclipse (Selenium) JAVA.
+
+Test Amazon finalizado.
+
+Aclaraciones:
+.Primera etapa de proyecto, validar captcha manualmente (seguridad de amazon) (15 segundo de time out).
+.El proyecto puede ser mejorado, añadir otra rama de busquedas, o elegir que pagina desplegarse.
+.Se puede buscar las variables(xpath,variables) desde un excel si asi se prefiere.
+
+.Automatizado con Eclipse(Selenium) JAVA.
