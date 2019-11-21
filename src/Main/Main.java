@@ -37,7 +37,7 @@ public class Main {
 			TimeUnit.SECONDS.sleep(15);
 			System.out.println("15 segundos para introducir el Captcha - validacion obligatoria");
 			
-			//Buscamos el articulo.
+			//Buscamos el articulo
 			Buscar.Buscador("Alexa");
 			System.out.println("Buscamos 'Alexa' en el buscador de amazon");
 			
