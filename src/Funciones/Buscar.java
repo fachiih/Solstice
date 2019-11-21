@@ -8,7 +8,7 @@ public class Buscar {
 	
 	public static void Buscador(String Valor) throws Exception {
 		try { 
-			
+			//
 			Utilidades.sendKeysXpath("//input[@id='twotabsearchtextbox']", Valor);		
 
 		} catch (Exception e) {
